@@ -20,9 +20,9 @@ class Student{
 
 int main(){
     Student s1;
-    s1.m1=61;
-    s1.m2=77;
-    s1.m3=99;
+    s1.m1=69;
+    s1.m2=70;
+    s1.m3=90;
     
     return 0;
 
