@@ -1,5 +1,5 @@
-Name-Praanjal Joshi
+Name-AYUSH DHIMAN
 
-Id-23CE-30
+Id-23CE-13
 
 Course-B.Tech(CSE)
